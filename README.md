@@ -99,28 +99,18 @@ ArticleApp/
 ```
 
 ## 📸 Screenshots (iPhone)
-
-<img src="https://github.com/user-attachments/assets/b15cf3e2-ce5d-4851-a66b-005002fc3c4d" width="250"/> <br><br>
-
-<img src="https://github.com/user-attachments/assets/354d78a7-f469-46a8-8cd3-86294b21ae62" width="250"/> <br><br>
-
-<img src="https://github.com/user-attachments/assets/9359c6a2-f46e-4206-8754-4cb9d0ac0e28" width="250"/> <br><br>
-
-<img src="https://github.com/user-attachments/assets/0c0640bc-5bd1-4ea4-8733-cc964051ed57" width="250"/> <br><br>
-
-<img src="https://github.com/user-attachments/assets/f208fe80-f077-41f4-80bf-453afe3a9aad" width="250"/>
+<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-18 at 13 30 44" src="https://github.com/user-attachments/assets/30e185a1-d274-4ed3-9805-aff04ec3510b" /> <br><br>
+<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-18 at 13 30 56" src="https://github.com/user-attachments/assets/84591db7-d44f-406d-bac3-230db3d497fa" /> <br><br>
+<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-18 at 13 31 07" src="https://github.com/user-attachments/assets/6da97a5c-ddbf-4f98-bed6-9da205037085" /> <br><br>
+<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-18 at 13 31 42" src="https://github.com/user-attachments/assets/d65613f2-acb8-4bed-ba8c-d0391e18049f" /> <br><br>
+<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-03-18 at 13 51 22" src="https://github.com/user-attachments/assets/b9505913-78b0-4d45-bd72-5354e9914243" /> <br><br>
 
 
 ## 📸 Screenshots (iPad)
-
-<img src="https://github.com/user-attachments/assets/5fe4e07e-55f3-436e-91b6-01945ab74444" width="300"/> <br><br>
-
-<img src="https://github.com/user-attachments/assets/9cbdd29d-027a-4cc3-9daf-460ae080f4d8" width="300"/> <br><br>
-
-<img src="https://github.com/user-attachments/assets/8eb75f4b-10ad-4e32-b598-ac536ec988eb" width="300"/> <br><br>
-
-<img src="https://github.com/user-attachments/assets/75aa5850-4581-40b3-b0bc-76327f6353e0" width="300"/>
-
+<img width="2064" height="2752" alt="Simulator Screenshot - iPad Pro 13-inch (M5) - 2026-03-18 at 14 24 05" src="https://github.com/user-attachments/assets/fcd9cfc5-3d24-4ed8-9769-b9d37fcf7a4d" /> <br><br>
+<img width="2064" height="2752" alt="Simulator Screenshot - iPad Pro 13-inch (M5) - 2026-03-18 at 14 24 12" src="https://github.com/user-attachments/assets/4146c645-bc93-41ca-9662-fa76eca2a5cc" /> <br><br>
+<img width="2064" height="2752" alt="Simulator Screenshot - iPad Pro 13-inch (M5) - 2026-03-18 at 14 24 20" src="https://github.com/user-attachments/assets/9e4573a9-956c-438a-b4fa-8ef6048cf85d" /> <br><br>
+<img width="2064" height="2752" alt="Simulator Screenshot - iPad Pro 13-inch (M5) - 2026-03-18 at 14 26 11" src="https://github.com/user-attachments/assets/4dfeff82-9115-4555-a199-fd0b45aa3d1d" /> <br><br>
 
 
 ## ⚙️ Setup Instructions
